@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "materialtabs",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "uiSyntax": "ets"
+  }
+}

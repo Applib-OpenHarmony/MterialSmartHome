@@ -1,0 +1,5 @@
+{
+  "src": [
+    "pages/index","pages/profiles","pages/edituser"
+  ]
+}

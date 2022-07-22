@@ -1,0 +1,21 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "ohos": {
+    "org": "huawei",
+    "buildTool": "hvigor",
+    "directoryLevel": "module"
+  },
+  "description": "example description",
+  "repository": {},
+  "license": "ISC",
+  "dependencies": {
+    "@ohos/material-appbar": "../materialappbar",
+    "@ohos/material-tabs": "../materialtabs",
+    "@ohos/material-textfield": "../materialtextfield",
+    "@ohos/material_button": "../Material_Button",
+    "@ohos/material-bottombar": "../materialbottombar",
+    "@ohos/material-card": "../materialcard",
+    "@ohos/materialslider": "../MaterialSlider"
+  }
+}
